@@ -1,5 +1,4 @@
-# Pregunta-seria-perrito
-<!DOCTYPE html>
+# Pregunta-seria
 <html lang="es">
 <head>
     <meta charset="UTF-8">
